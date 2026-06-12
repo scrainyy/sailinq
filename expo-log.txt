@@ -1,0 +1,17 @@
+Starting project at C:\Users\zmuda\OneDrive\Pulpit\sailinq_app_code\sailinq
+Using src/app as the root directory for Expo Router.
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+The following packages should be updated for best compatibility with the installed expo version:
+  @types/react@19.2.17 - expected version: ~19.1.10
+  typescript@6.0.3 - expected version: ~5.9.2
+Your project may not work correctly until you install the expected versions of the packages.
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Android node_modules\expo-router\entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android node_modules\expo-router\entry.js ▓▓▓▓▓▓░░░░░░░░░░ 40.2% (305/481)
+Android node_modules\expo-router\entry.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 88.2% (1380/1469)
+Android Bundled 8603ms node_modules\expo-router\entry.js (1673 modules)
+iOS node_modules\expo-router\entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+iOS node_modules\expo-router\entry.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 81.1% (1262/1401)
+iOS Bundled 5435ms node_modules\expo-router\entry.js (1660 modules)
